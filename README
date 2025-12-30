@@ -1,0 +1,33 @@
+## Project Overview
+
+2D puzzle game built around the idea of **using bugs and unintended behaviours as core mechanics**.  
+The game is presented from a Pokémon-style top-down perspective, encouraging players to observe, experiment, and exploit systemic inconsistencies to progress.
+
+## Design Focus
+
+- Puzzle design based on **rule-breaking and edge cases**
+- Turning bugs from errors into **intentional player tools**
+- Encouraging player curiosity through trial, failure, and discovery
+
+Rather than hiding bugs, the game exposes them as readable systems that players can learn, predict, and manipulate.
+
+## Gameplay Concept
+
+Players navigate a top-down 2D world where certain interactions behave “incorrectly” by conventional game logic.  
+Progress is achieved not by following intended rules, but by **understanding how the system breaks** and using those breaks to solve puzzles.
+
+Examples include:
+- Collisions behaving inconsistently
+- State changes persisting when they should reset
+- Movement or interaction rules behaving differently under specific conditions
+
+## My Role
+
+- Game design and puzzle concept
+- System definition and iteration
+- Playtesting and refinement of bug-based mechanics
+
+## Notes
+
+This project prioritises design experimentation and systemic exploration over production polish.  
+The focus is on how players interpret, learn, and exploit rules rather than on technical optimisation.
